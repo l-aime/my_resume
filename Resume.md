@@ -1,5 +1,5 @@
  <center>
-     <h1>营销、用户增长</h1>
+     <h1>营销、用户增长工程师</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
@@ -30,7 +30,7 @@
 - 工作年限：7年（互联网金融/用户增长领域）
 - 现职：蚂蚁金服-数字金融事业部-高级营销工程师
   
-## <img src="assets/rss-solid.svg" width="30px">核心价值主张
+## <img src="assets/valuation.svg" width="30px">核心价值主张
 - 通过数据驱动的智能营销系统，构建余额宝用户全生命周期增长模型，实现资金规模与用户粘性的双增长
 
 ## <img src="assets/tools-solid.svg" width="30px">专业能力矩阵
