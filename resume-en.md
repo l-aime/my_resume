@@ -70,8 +70,8 @@ Design the wealth marketing platform from scratch and build real-time risk contr
 - ***Specific Steps***
   
 1. Abstract marketing models, manage the lifecycle and data flow of marketing domain entities, and unify front-end and back-end data interaction protocols.
-2. Develop a marketing play execution engine using a pipeline pattern to support the串联 of atomic marketing capabilities.
-3. Build an underlying virtual asset system for marketing, providing basic capabilities for high-concurrency virtual asset抢兑 and queries.
+2. Develop a marketing play execution engine using a pipeline pattern to support orchestration of atomic marketing capabilities.
+3. Build an underlying virtual asset system for marketing, providing basic capabilities for high-concurrency virtual asset exchange and queries.
 4. Build real-time risk identification and interception capabilities around the play engine.
    
 - ***Result***
