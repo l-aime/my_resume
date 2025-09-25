@@ -3,11 +3,9 @@
     <div>
         <span>
             <img src="assets/phone-solid.svg" width="18px">
-        
         </span>
         <span>
-            <img src="assets/envelope-solid.svg" width="18px">
-            
+            <img src="assets/envelope-solid.svg" width="18px
         </span>
         <span>
             <img src="assets/github-brands.svg" width="18px">
