@@ -3,11 +3,11 @@
     <div>
         <span>
             <img src="assets/phone-solid.svg" width="18px">
-            15021556205
+        
         </span>
         <span>
             <img src="assets/envelope-solid.svg" width="18px">
-            junhua.deng91@gmail.com
+            
         </span>
         <span>
             <img src="assets/github-brands.svg" width="18px">
@@ -18,8 +18,8 @@
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> Personal Information 
 
-- Name: Deng Junhua
-- Phone/Email: 15021556205 / junhua.deng91@gmail.com
+- Name: ###
+- Phone/Email:###
 - Years of Experience: 8 years (Marketing & User Growth Engineer)
 - Current Position: Ant Group - Wealth Business Unit - Marketing User Growth Engineer
   
@@ -35,25 +35,25 @@
 
 ### AI Driven
 
-- Intelligent Marketing: Using AI to explore intelligent marketing, specifically including AI-powered copy generation and AI-assisted development, testing, and business operations throughout the entire lifecycle of a marketing assistant.
+- Intelligent Marketing: Using AI to explore intelligent marketing, specifically including AI-powered copy generation and AI-assisted development, testing, and business operations throughout the entire lifecycle of a marketing campaign.
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> Work Experience
 
 **1. Ant Group | Ant Wealth | Senior Java Engineer | Wealth Marketing Platform Team (2021.06 - Present)**
   
-- ***Marketing Campaign Platform***: Led the design and development from scratch of the wealth marketing platform and marketing risk control SDK, abstracting marketing domain models and risk control models. Reduced marketing manpower investment by 50% and improved marketing risk response efficiency by 60%.
+- ***Marketing Campaign Platform***: Led the design and development from scratch of the wealth marketing platform and risk control SDK, abstracting marketing domain models and risk control models. Reduced marketing manpower investment by 50% and improved marketing risk response efficiency by 60%.
 
-- ***Benefit Decision Engine***: Built a user-tiered benefit pricing and recall engine, achieving real-time user value grading and improving benefit verification efficiency by 27%.
+- ***Benefit Decision Engine***: Built a user-tiered benefit pricing and recall engine, achieving real-time user value grading and improving benefit write-off efficiency by 27%.
 
 - ***AI Practice***: Use AI to generate configuration, defect analysis, and backtesting. This resulted in an AI-generated configuration rate of over 60%, an AI configuration accuracy of over 70%, and a defect analysis accuracy of 67%, effectively increasing development efficiency.
 
-**2. Alibaba Group | Cainiao Network | Senior Java Engineer | Financial Settlement Technology Team (2019.11 - 2021.06)**
+**2. Alibaba Group | Cainiao Network | Java Engineer | Financial Settlement Technology Team (2019.11 - 2021.06)**
 
 - ***Financial Settlement Productization***: Organizing financial settlement concepts around express delivery subjects: systematized the financial settlement engine, abstracting it into rules, strategies, and engine components, effectively supporting STO Express's financial settlement migration to the cloud and high-performance computing during Double Eleven.
 
 **3. Ximalaya FM | Java Development Engineer | Website Center User Growth Team (2017.08 - 2019.10)**
 
-- ***Product Tagging System***: To address the "unstructured" challenge of audio content and support scenarios like precise recommendations, search optimization, and operational activities, innovatively applied a tree structure to structure product tag data, reducing tag data integration costs by 90%.
+- ***Product Tagging System***: To address the "unstructured" challenge of audio content and support scenarios like precise recommendations, search optimization, and operational activities, innovatively applied a tree to structure product tag data, reducing tag data integration costs by 90%.
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Project Experience
 
@@ -61,7 +61,7 @@
 
 - ***Background***
   
-In recent years, Yu'ebao's returns have declined, reducing the effectiveness of organic traffic in driving business growth. In the face of fierce competition, large-scale marketing promotions with traffic aggregation effects have become the most effective means to drive Yu'ebao's business growth, making such promotions more frequent. However, marketing promotions are often time-consuming, labor-intensive, and high-risk projects, which conflicts with the requirement for rapid business launch and iteration. Hence, there was a need for a system that integrates marketing elements and uses systematic methods to address risk identification and handling.
+In recent years, Yu'ebao's returns have declined, reducing the effectiveness of organic traffic in driving business growth. In the face of fierce competition, large-scale marketing promotions with traffic aggregation effects have become the most effective means to drive Yu'ebao's business growth. However, marketing promotions are often time-consuming, labor-intensive, and high-risk projects, which conflicts with the requirement for rapid business launch and iteration. Hence, there was a need for a system that integrates marketing elements and uses systematic methods to address risk identification and handling.
 
 - ***Task***
   
@@ -69,9 +69,9 @@ Design the wealth marketing platform from scratch and build real-time risk contr
 
 - ***Specific Steps***
   
-1. Abstract marketing models, manage the lifecycle and data flow of marketing domain entities, and unify front-end and back-end data interaction protocols.
-2. Develop a marketing play execution engine using a pipeline pattern to support orchestration of atomic marketing capabilities.
-3. Build an underlying virtual asset system for marketing, providing basic capabilities for high-concurrency virtual asset exchange and queries.
+1. Abstract marketing models, manage the lifecycle and data flow of marketing domain entities, unify front-end and back-end data interaction protocols.
+2. Develop a marketing play execution engine using a pipeline pattern to support orchestration of atomic marketing capability.
+3. Build an underlying virtual asset system, providing basic capabilities for high-concurrency virtual asset exchange and queries.
 4. Build real-time risk identification and interception capabilities around the play engine.
    
 - ***Result***
