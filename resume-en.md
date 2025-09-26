@@ -68,33 +68,33 @@ Since its launch in early 2024, the marketing platform has not only effectively 
 
 - ***Background***
 
-In the initial 0 to 1 phase, the marketing platform achieved scaled capability building, handling over 80% of the wealth team's marketing business requirements. However, as more business units joined, configuration bugs, configuration inquiries, and configuration risk checks became the team's biggest liability. There was an urgent need to further abstract the marketing platform model and present its capabilities using more productized concepts to reduce configuration understanding costs and error rates. Additionally, to refocus development resources on system development and optimization, there was a need to explore multi-agent-based marketing collaboration capabilities around productized features, reducing reliance on developers for wealth marketing.
+In the 0 to 1 phase, the marketing platform achieved scaled capability building, handling over 80% of the wealth team's marketing business requirements. However, as more business  joined, configuration bugs, configuration inquiries, and configuration risk checks became the team's biggest burden. There was an urgent need to further abstract the marketing platform model and present its capabilities with a productized concepts to reduce configuration understanding costs and error rates. Additionally, to focus development resources on system development and optimization, there was a need to explore AI-powered marketing collaboration capabilities, reducing reliance on developers.
 
 - ***Task***
-1. Further abstract the marketing platform model and present marketing capabilities externally using productized concepts.
+1. Further abstract the marketing platform model and present marketing capabilities using productized concepts.
 2. Explore Multi-Agent to build marketing collaboration capabilities and free up development resources.
                                     
 - ***Specific Steps***
-1. Standardized activity, play, supply, and strategy models, achieving **zero-code marketing activity configuration**, reducing configuration costs.
-2. Developed marketing multi-agents, building AI-based marketing intelligent assistance capabilities, and established a collaboration evaluation mechanism.
+1. Standardized activity, play, supply, and strategy models, achieving **zero-code marketing platform configuration**, reducing configuration costs and risks.
+2. Developed marketing multi-agents, building AI-based assistance capabilities, and established a collaboration  mechanism.
    
 - ***Result***
 
-The marketing platform productization initiative started in early 2025. After its launch in May 2025, it efficiently supported the Yu'ebao 12th Anniversary promotion (100M+ user visits). During development, configuration costs decreased by 70%, and bugs reduced by 36%. Furthermore, the LLM-based marketing intelligent assistance capability effectively reduced platform usage costs, freed up 40% of Q&A resources, and identified a viable path for AI implementation in marketing scenarios.
+The marketing platform productization started in early 2025. After its launch in May 2025, it efficiently supported the Yu'ebao 12th Anniversary promotion (100M+ user visits). During development, configuration costs decreased by 70%, and bugs reduced by 36%. Furthermore, the AI-based intelligent assistance  effectively reduced platform usage costs, freed up 40% of Q&A resources, and identified a viable path for AI implementation in marketing scenarios.
 
 **3. Financial Settlement | Logistics Settlement Productization** 
 
 - ***Background***
   
-STO Express's financial settlement system used TD's traditional industry solution, where all financial settlement logic was implemented using SQL scripts, involving 1000+ Oracle scheduling tasks, 100+ financial reports, and 200+ stored procedures. The TD was a closed system , difficult to scale, and had high maintenance and operational costs. The core challenges were improving development iteration efficiency, building cloud-based settlement, and achieving a smooth transition between the old and new systems.
+STO Express's financial settlement system used TD's traditional industry solution, where all financial settlement logic was implemented using SQL scripts, involving 1000+ Oracle scheduling tasks, 100+ financial reports, and 200+ stored procedures. The TD was a closed system , difficult to scale, and had high maintenance and operational costs. The core challenges were improving development iteration efficiency, building a cloud-based settlement, and achieving a smooth transition between the old and new systems.
 
 - ***Task***
 1. Build financial settlement productization capabilities to manage billing subjects and billing metadata. Ensure billing subject scripts are easy to modify, test, and verify; the billing system is monitorable; and the calculation process is traceable.
 2. Achieve a smooth transition between the old and new systems.
                                     
 - ***Specific Steps***
-1. Maintained a business perspective, organizing strategy, rule, and factor (rates, features) domain models around billing subjects.
-2. Developed a financial settlement billing engine to consume upstream settlement messages in real-time, enabling real-time waybill cost calculation.
+1. Organizing strategy, rule, and factor (rates, features) domain models around billing subjects.
+2. Developed a financial settlement billing engine to consume upstream settlement messages in real-time, enabling real-time cost calculation.
 3. Achieved a smooth system transition by developing a grayscale release plan: first, switching the settlement process flow, then switching the TD data source flow, and finally switching the reporting layer flow.
 
 - ***Result***
