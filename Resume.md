@@ -1,20 +1,3 @@
- <center>
-     <h1>营销、用户增长工程师</h1>
-     <div>
-         <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             
-         </span>
-         <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-            
-         </span>
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/l-aime">L'aime</a>
-         </span>
-     </div>
- </center>
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
