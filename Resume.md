@@ -3,11 +3,11 @@
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             15021556205
+             
          </span>
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             junhua.deng91@gmail.com
+            
          </span>
          <span>
              <img src="assets/github-brands.svg" width="18px">
@@ -18,10 +18,10 @@
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
-- 姓名：邓君华
-- 电话/邮箱：junhua.deng91@gmail.com
+- 姓名：xx
+- 电话/邮箱：
 - 工作年限：8年（互联网金融/用户增长领域）
-- 现职：蚂蚁金服-财富事业部-营销用户增长工程师
+- 现职：
   
 ## <img src="assets/tools-solid.svg" width="30px">专业能力矩阵
 ### 用户增长技术栈
