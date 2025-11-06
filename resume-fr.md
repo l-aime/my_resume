@@ -1,27 +1,10 @@
-<center>
-    <h1> Marketing & User Growth Ingénieur</h1>
-    <div>
-        <span>
-            <img src="assets/phone-solid.svg" width="18px">
-            15021556205
-        </span>
-        <span>
-            <img src="assets/envelope-solid.svg" width="18px">
-            junhua.deng91@gmail.com
-        </span>
-        <span>
-            <img src="assets/github-brands.svg" width="18px">
-            <a href="https://github.com/l-aime">L'aime</a>
-        </span>
-    </div>
-</center>
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> Informations Personnelles
 
-- **Nom :** Deng Junhua
-- **Téléphone/Email :** 15021556205 / junhua.deng91@gmail.com
+- **Nom :** 
+- **Téléphone/Email :
 - **Années d'expérience :** 8 ans (Finance numérique en ligne / Domaine de la Croissance Utilisateur)
-- **Poste actuel :** Ingénieur Marketing & Croissance Utilisateur - Division Wealth - Ant Group
+- **Poste actuel :** Ingénieur Marketing & Croissance Utilisateur
 
 ## <img src="assets/tools-solid.svg" width="30px"> Matrice des Compétences
 
